@@ -631,7 +631,7 @@ body {
     
     
     .details1 {
-      background-image: url(imp25/img1);
+      background-image: url("imp25/img1");
     background-size: cover;
     background-position: center;
 
@@ -1332,4 +1332,5 @@ body {
       }
 
     }
+
 
